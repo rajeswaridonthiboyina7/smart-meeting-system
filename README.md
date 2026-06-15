@@ -32,7 +32,7 @@ Smart Meeting System is a full-stack web application designed to manage employee
 * OpenPyXL
 
 ## Project Structure
-
+```text
 smart-meeting-system/
 │
 ├── backend/
@@ -58,7 +58,7 @@ smart-meeting-system/
 │   │   ├── main.tsx
 │
 └── README.md
-
+```
 ## Installation & Setup
 
 ## Backend Setup
